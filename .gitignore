@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Package builds
+*.egg-info/
+dist/
+build/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Output CSV files
+*.csv
